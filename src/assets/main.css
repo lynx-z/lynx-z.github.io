@@ -1,11 +1,16 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
+  /* max-width: 1280px; */
+  width: 100vw;
   margin: 0 auto;
   padding: 2rem;
 
   font-weight: normal;
+  display: grid;
+    /* 20% side bar and 80% */
+  grid-template-columns: 2fr 8fr;
+  padding: 0 2rem;
 }
 
 a,
@@ -21,15 +26,18 @@ a,
   }
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 500px) {
   body {
+    /* width: 100vw; */
     display: flex;
     place-items: center;
   }
 
+
   #app {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* 20% side bar and 80% */
+    grid-template-columns: 2fr 8fr;
     padding: 0 2rem;
   }
 }

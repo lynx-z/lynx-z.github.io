@@ -5,24 +5,29 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
+    <!-- <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" /> -->
+    <div>
+      <!-- <HelloWorld msg="You did it!" /> -->
       <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/">Home</RouterLink><br>
+        <RouterLink to="/about">About</RouterLink><br>
+        <RouterLink to="/week0">Week 0</RouterLink><br>
+        <RouterLink to="/week1">Week 1</RouterLink><br>
+
       </nav>
     </div>
+
   </header>
+
 
   <RouterView />
 </template>
 
 <style scoped>
 header {
+  top:15%;
   line-height: 1.5;
+  height: 100vh;
   max-height: 100vh;
 }
 
@@ -32,10 +37,12 @@ header {
 }
 
 nav {
-  width: 100%;
-  font-size: 12px;
-  text-align: center;
-  margin-top: 2rem;
+  text-align: left;
+  /* width: 100%; */
+  font-size: 20px;
+  position: fixed;
+  top: 10%;
+  
 }
 
 nav a.router-link-exact-active {
@@ -49,18 +56,21 @@ nav a.router-link-exact-active:hover {
 nav a {
   display: inline-block;
   padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
+  /* border-left: 1px solid var(--color-border); */
+  /* border-right: 1px solid var(--color-border); */
 }
 
 nav a:first-of-type {
   border: 0;
 }
 
-@media (min-width: 1024px) {
+/* less than 500px */
+@media (max-width: 500px) {
   header {
+    width: 20%;
     display: flex;
     place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
+    /* padding-right: calc(var(--section-gap) / 2); */
   }
 
   .logo {
@@ -74,7 +84,7 @@ nav a:first-of-type {
   }
 
   nav {
-    text-align: left;
+    text-align: right;
     margin-left: -1rem;
     font-size: 1rem;
 
