@@ -54,7 +54,7 @@ export default {
   }
 
   th, td {
-    width: 90px;
+    /* width: 90px; */
     padding: 8px;
     border: 1px solid #979797;
   }
