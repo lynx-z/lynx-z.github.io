@@ -3,7 +3,7 @@
       <br><br>
       <h1>Works Before June 2023</h1><br>
 
-      <h2>ZKP Games compare</h2>
+      <h2>ZKP Games Compare</h2>
 
       <!-- table -->
       <div>

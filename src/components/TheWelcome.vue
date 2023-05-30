@@ -42,7 +42,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Reference Resources</template>
+    <template #heading>Reference & Resources</template>
 
     Design pattern: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay?context=PC&vid=44UOE_INST:44UOE_VU2&search_scope=UoE&tab=Everything&docid=cdi_askewsholts_vlebooks_9781610581998" target="_blank" rel="noopener">Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions</a>.
     <br>ZKP visualisation: <a href="https://m.youtube.com/watch?v=CIGnBb8B0rQ&feature=youtu.be" target="_blank" rel="noopener">ZKP MOOC Lecture 11: From Practice to Theory</a>.
