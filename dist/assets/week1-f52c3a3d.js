@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,d as c,a as e}from"./index-ca709b7b.js";const a={},n={class:"about"},_=e("h1",null,"This is week 1",-1),r=e("br",null,null,-1);function l(d,i){return t(),o("div",n,[_,r,c(" TEST ")])}const f=s(a,[["render",l]]);export{f as default};

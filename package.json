@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@videojs-player/vue": "^1.0.0",
+    "video.js": "^8.3.0",
     "vue": "^3.3.2",
     "vue-router": "^4.2.0"
   },

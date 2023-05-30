@@ -6,24 +6,77 @@
       <h2>ZKP Games compare</h2>
 
       <!-- table -->
-      <br>
-      <table>
-        <thead>
-          <tr>
-            <th v-for="column in columns" :key="column">{{ column }}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="row in rows" :key="row.id">
-            <td v-for="i in columns.length" :key="i">{{ row[i-1] }}</td>
-          </tr>
-        </tbody>
-      </table>
+      <div>
+        <br>
+        <table>
+          <thead>
+            <tr>
+              <th v-for="column in columns" :key="column">{{ column }}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="row in rows" :key="row.id">
+              <td v-for="i in columns.length" :key="i">{{ row[i-1] }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Design -->
+      <div>
+        <br>
+        <h2>Card Game Design</h2>
+        Simple:
+        <ul>
+          <li>Prover has two options, show the card or show the rest color card</li>
+          <li>Verifier: believe or question</li>
+        </ul>
+
+
+        <br>Challenge:<br>
+        Prover : 
+        <ul>
+          <li>Select one card and one statement</li>
+          <ul>
+            <li>Can be Bluffing (for example, pick a black card but say it is red)</li>
+            <li>Get bonus points if bluffing is successful</li>
+          </ul>
+          <li>Select one card and one statement</li>
+          <li>Select one card and one statement</li>
+          <li>Select which cards to show, not just two options</li>
+          <li>The computer(verifier) chooses to believe or question (The more information the prover presents, the higher the probability that the computer will choose to believe it. The final score is determined by the number of pieces of information presented by the prover)</li>
+
+        </ul>
+
+        Verifier:
+        <ul>
+          <li>The computer(prover) will select one card and show one statement</li>
+          <li>Believe or question. </li>
+        </ul>
+      </div>
+
+
+      <!-- Prototype -->
 
       <br>
-      <h2>ZKP Games compare</h2>
+      <h2>Prototype Design</h2>
+      <br>
 
-      
+      <div class = "video">
+        <video-player
+          src="src/assets/videos/demo_0501.mp4"
+          :width = 500
+          :muted = "true"
+          :autoplay = "true"
+        />
+      </div>
+
+
+
+
+    
+
+      <br><br>
     </div>
   </template>
   
@@ -65,6 +118,10 @@ export default {
 
   h1,h2, h3 {
     color:white;
+  }
+
+  .video{
+    width: 10%;
   }
 
 
