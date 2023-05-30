@@ -64,7 +64,7 @@
 
       <div class = "video">
         <video-player
-          src="src/assets/videos/demo_0501.mp4"
+          src="https://user-images.githubusercontent.com/85024355/242028446-e7a45d56-bfa7-4eec-8433-e69020dcf7f8.mp4"
           :width = 500
           :muted = "true"
           :autoplay = "true"
