@@ -29,5 +29,3 @@ npm run build
 ```
 
 
-https://github.com/lynx-z/lynx-z.github.io/assets/85024355/e7a45d56-bfa7-4eec-8433-e69020dcf7f8
-
