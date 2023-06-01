@@ -3,7 +3,25 @@
       <br><br>
       <h1>Week 1 (2023/5/29 - 2023/6/4)</h1><br>
 
+
       <!--  -->
+      <br>
+      <h2> Development Records</h2>
+      <br>
+      <ul>
+        <li>Fix pixel image blur error: </li>
+          <ul>
+            <li>Aseprite with Unity: first change to sprite mode; set pixels per unit as 32 (same as pixel camera) </li>
+            <li>Fixed: set SpriteAtlas compression as none (If use SpriteAtlas, the image will be blur, dont know why) </li>
+          </ul>
+
+        <li> </li>
+
+      </ul>
+
+
+      <!--  -->
+      <br>
       <h2> Thoughts & Ideas</h2>
 
       <br>Art Style
@@ -22,9 +40,11 @@
       
       <!--  -->
       <br>
-      <h2> UI draft</h2>
+      <h2> Card Game UI draft</h2>
       <br>
       <img :src="imageUrl" alt="Image" width="500">
+
+
 
 
 
@@ -35,6 +55,9 @@
   </template>
   
   <style>
+  h1,h2, h3 {
+    color:white;
+  }
 
   </style>
 
