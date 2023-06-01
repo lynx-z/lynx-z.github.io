@@ -7,7 +7,7 @@ const router = createRouter({
     {
       path: "/:catchAll(.*)",
       name: "NotFound",
-      component: HomeView,
+      component: () => import('../views/AboutView.vue'),
       meta: {
         requiresAuth: false
       }
