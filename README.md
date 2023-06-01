@@ -1,6 +1,9 @@
-# .
+# Visualization of Zero-Knowledge proofs that A Child can Understand
+This website presents the resources and progress of work on the Msc project
 
-This template should help get you started developing with Vue 3 in Vite.
+http://localhost:5173/#/
+
+<!-- This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -26,6 +29,6 @@ npm run dev
 
 ```sh
 npm run build
-```
+``` -->
 
 
