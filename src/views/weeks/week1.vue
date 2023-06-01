@@ -44,7 +44,7 @@ export default {
   name: 'App',
   data() {
     return {
-      imageUrl: 'src/assets/pictures/card_design.jpg' // Replace with the URL of your image
+      imageUrl: 'https://raw.githubusercontent.com/lynx-z/lynx-z.github.io/main/src/assets/pictures/card_design.jpg' // Replace with the URL of your image
     };
   }
 }
