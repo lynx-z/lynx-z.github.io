@@ -15,7 +15,7 @@
             <li>Fixed: set SpriteAtlas compression as none (If use SpriteAtlas, the image will be blur, dont know why) </li>
           </ul>
 
-        <li> </li>
+        <li>Add cards movement animation</li>
 
       </ul>
 
