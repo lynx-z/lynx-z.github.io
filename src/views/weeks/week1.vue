@@ -16,8 +16,21 @@
           </ul>
 
         <li>Add cards movement animation</li>
+        <li>Refector the structure</li>
 
       </ul>
+
+
+      <!--  -->
+      <br>
+      <h2> To Do </h2>
+      <br>
+      <ul>
+        <li>Set unclickable when cards are moving </li>
+        <li>Add guide screen (start screen, select screen)</li>
+        <li>Set selected card also clickable (player can show the card directly)</li>
+
+      </ul> 
 
 
       <!--  -->
