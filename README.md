@@ -3,32 +3,11 @@ This website presents the resources and progress of work on the Msc project
 
 http://localhost:5173/#/
 
-<!-- This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-``` -->
-
+<!--  -->
+video links
+0605
+https://user-images.githubusercontent.com/85024355/243330281-ae4538a0-e328-438e-8ead-b17f05e0f5ff.mp4
 
