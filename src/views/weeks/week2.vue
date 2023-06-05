@@ -10,6 +10,8 @@
     <br>
     <ul>
       <li>Add option: Prover can show the card directly.</li>
+      <li>Set cards not clickable when the animation is running.</li>
+      <li>Fix: card keep jittering when mouse in some specfic position (when in down card but not in up card, it will casuse animation loop)</li>
 
 
     </ul>
