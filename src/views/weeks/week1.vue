@@ -66,6 +66,7 @@
           :width = 500
           :muted = "true"
           :autoplay = "true"
+          :loop="true"
         />
       </div>
 
