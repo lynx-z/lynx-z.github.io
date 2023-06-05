@@ -9,6 +9,7 @@
     <h2> Development Records</h2>
     <br>
     <ul>
+      <li>Add option: Prover can show the card directly.</li>
 
 
     </ul>
