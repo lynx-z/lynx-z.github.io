@@ -7,7 +7,7 @@ https://lynx-z.github.io/#/
 
 
 <!--  -->
-video links
+<!-- video links
 0605
-https://user-images.githubusercontent.com/85024355/243330281-ae4538a0-e328-438e-8ead-b17f05e0f5ff.mp4
+https://user-images.githubusercontent.com/85024355/243330281-ae4538a0-e328-438e-8ead-b17f05e0f5ff.mp4 -->
 
