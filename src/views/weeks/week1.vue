@@ -60,6 +60,15 @@
       <br>
       <img :src="imageUrl" alt="Image" width="500">
 
+      <div class = "video">
+        <video-player
+          src="https://user-images.githubusercontent.com/85024355/243330281-ae4538a0-e328-438e-8ead-b17f05e0f5ff.mp4"
+          :width = 500
+          :muted = "true"
+          :autoplay = "true"
+        />
+      </div>
+
 
 
 
