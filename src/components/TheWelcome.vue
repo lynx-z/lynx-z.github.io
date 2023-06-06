@@ -49,6 +49,9 @@ import SupportIcon from './icons/IconSupport.vue'
     <br>ZKP visualisation: <a href="https://www.youtube.com/watch?v=fOGdb1CTu5c" target="_blank" rel="noopener">Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED</a>.
     <br>Video with visualization explaining ZK: <a href="https://www.youtube.com/watch?v=5ovdoxnfFVc" target="_blank" rel="noopener">AZero Knowledge Proof (with Avi Wigderson) - Numberphile</a>.
     <br>How to survive in challenging environments: <a href="https://m.youtube.com/watch?v=QMEkmopXB3g&list=WL&index=6" target="_blank" rel="noopener">Anti-disciplinary: doing academic research when you like too many things</a>.
+   
+    <br>Three color map interactive visualization: <a href="https://web.mit.edu/~ezyang/Public/graph/svg.html" target="_blank" rel="noopener">Interactive demonstration of the zero knowledge proof protocol for 3-colorable graphs</a>.
+    
 
 
 
