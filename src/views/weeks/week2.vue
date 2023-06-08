@@ -16,6 +16,7 @@
 
       3-colorable Map:
       <li>script: drag color and fill</li>
+      <li>fix: ignore collisions on the same layer, Edit->Project Settings-> Physics and set up the proper layer collisions.</li>
 
 
 
@@ -27,6 +28,8 @@
     <h2> To Do </h2>
     <br>
     <ul>
+      <li> dissertation template</li>
+      <li> ethic application : https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure</li>
 
     </ul> 
 
