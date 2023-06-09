@@ -16,7 +16,11 @@
 
       3-colorable Map:
       <li>script: drag color and fill</li>
+      <li>click to show a random neighborhood</li>
+      <li>Map implement: black background, with several white block on it</li>
       <li>fix: ignore collisions on the same layer, Edit->Project Settings-> Physics and set up the proper layer collisions.</li>
+      <li>script: generate 6 color combination based on player color stragty(back tracking)</li>
+      <li>When revealing a neighbour, Map the small map block to big map</li>
 
 
 
@@ -41,7 +45,8 @@
     <ul> 
       <li>Prover first color the map, with several combinations.</li>
       <li>Prover click 'finish'. Color object hidden. Map color stored, and then hidden to Verifier</li>
-      <li>Verifier keeps reveal the neighborhood color, if different color, add the confidence.</li>
+      <li>Auto generate 4 different color combination, stored in th left-bottom corner.</li>
+      <li>Verifier select a map, height in the buttom. reveal the neighborhood color, if different color, add the confidence. If same color, end game</li>
       <li>If the confidence over a threshold, </li>
 
     </ul>
