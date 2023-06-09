@@ -21,6 +21,7 @@
       <li>fix: ignore collisions on the same layer, Edit->Project Settings-> Physics and set up the proper layer collisions.</li>
       <li>script: generate 6 color combination based on player color stragty(back tracking)</li>
       <li>When revealing a neighbour, Map the small map block to big map</li>
+      <li>Add confidence: 1-(1-1/E)^n, E = pairs, n = reveal times</li>
 
 
 
