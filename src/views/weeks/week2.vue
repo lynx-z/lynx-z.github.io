@@ -35,6 +35,7 @@
     <ul>
       <li> dissertation template</li>
       <li> ethic application : https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure</li>
+      <li> Only save map when all block is filled</li>
 
     </ul> 
 
@@ -50,6 +51,12 @@
       <li>Verifier select a map, height in the buttom. reveal the neighborhood color, if different color, add the confidence. If same color, end game</li>
       <li>If the confidence over a threshold, </li>
 
+    </ul>
+
+    <br>
+    color-blind map design:
+    <ul>
+      <li>Prover is blindfolded when verfier is operating</li>
     </ul>
 
     
