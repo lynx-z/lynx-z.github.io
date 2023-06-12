@@ -56,7 +56,7 @@
     <h2> 3-color Map Game UI draft</h2>
     <br>
 
-    <!-- <img :src="imageUrl" alt="Image" width="500"> -->
+    <img :src="imageUrl" alt="Image" width="500">
 
     <!-- <div class = "video">
         <video-player
@@ -91,7 +91,7 @@ export default {
   name: 'App',
   data() {
     return {
-      imageUrl: 'https://raw.githubusercontent.com/lynx-z/lynx-z.github.io/main/src/assets/pictures/map_design.jpg' // Replace with the URL of your image
+      imageUrl: 'https://raw.githubusercontent.com/lynx-z/lynx-z.github.io/main/src/assets/pictures/wally_design.jpg' // Replace with the URL of your image
     };
   }
 }
