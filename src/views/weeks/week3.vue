@@ -42,6 +42,14 @@
       <li>Prover is blindfolded when verfier is operating</li>
     </ul>
 
+
+    Where is wally design:
+    <ul>
+      <li>A big box, which restrict the picture and the board position</li>
+      <li>Prover can move the picture; move or resize the board(free or fixed?)</li>
+      <li>Auto create a hole? Grid position?</li>
+    </ul>
+
     
     <!--  -->
     <br>
