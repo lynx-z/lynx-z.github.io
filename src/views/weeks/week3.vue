@@ -25,6 +25,8 @@
     <h2> To Do </h2>
     <br>
     <ul>
+      Color Blind game
+      <li>When black screen, set unclickable</li>
 
 
     </ul> 
