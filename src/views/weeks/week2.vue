@@ -66,6 +66,16 @@
     <br>
     <img :src="imageUrl" alt="Image" width="500">
 
+    <div class = "video">
+        <video-player
+          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/245098526-5e1b84e0-03dc-4017-9167-b4e706dfb492.mp4"
+          :width = 500
+          :muted = "true"
+          :autoplay = "true"
+          :loop="true"
+        />
+    </div>
+
 
 
     
