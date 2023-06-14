@@ -18,6 +18,7 @@
       Where is wally:
       <li>Game scene build</li>
       <li>Add a transparent auto hole in the board (actually on the picture, when board enter, show it; Use sprite mask)</li>
+      <li>Add three options to change the scale of the board</li>
 
 
 
@@ -29,8 +30,17 @@
     <h2> To Do </h2>
     <br>
     <ul>
+
+
+      <li>Create a main menu</li>
+      <li>Test server</li>
+      <li>Review ethic form</li>
+
       Color Blind game
       <li>When black screen, set unclickable</li>
+
+      Where is Wally
+      <li>when change small to larger, the board may outside the box</li>
 、
 
 
