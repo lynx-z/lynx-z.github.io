@@ -19,6 +19,8 @@
       <li>Game scene build</li>
       <li>Add a transparent auto hole in the board (actually on the picture, when board enter, show it; Use sprite mask)</li>
       <li>Add three options to change the scale of the board</li>
+      <li>Use the collider (Collider2D) to check if an object is inside another object</li>
+      <li>When prover click show, upadte the verifier text.</li>
 
 
 
