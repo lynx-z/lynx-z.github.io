@@ -10,10 +10,14 @@
     <br>
     <ul>
 
-      3-colorable Map:
-      <li> </li>
-      <li> </li>
-      <li></li>
+      Color Blind game:
+      <li>Set  a black screen to simulate the prover is blindfolded</li>
+      <li>Randomly show balls are switched or not</li>
+      <li>If the prover's answer is correct, increase the confidence, else confidence is 0%</li>
+
+      Where is wally:
+      <li>Game scene build</li>
+      <li>Add a transparent auto hole in the board (actually on the picture, when board enter, show it; Use sprite mask)</li>
 
 
 
@@ -27,6 +31,8 @@
     <ul>
       Color Blind game
       <li>When black screen, set unclickable</li>
+、
+
 
 
     </ul> 
@@ -53,7 +59,7 @@
     
     <!--  -->
     <br>
-    <h2> 3-color Map Game UI draft</h2>
+    <h2> Where is Wally UI draft</h2>
     <br>
 
     <img :src="imageUrl" alt="Image" width="500">
