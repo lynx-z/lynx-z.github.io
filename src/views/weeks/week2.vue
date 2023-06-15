@@ -14,7 +14,7 @@
       <li>Set cards not clickable when the animation is running.</li>
       <li>Fix: card keep jittering when mouse in some specfic position (when in down card but not in up card, it will casuse animation loop)</li>
 
-      3-colorable Map:
+      <br>3-colorable Map:
       <li>script: drag color and fill</li>
       <li>click to show a random neighborhood</li>
       <li>Map implement: black background, with several white block on it</li>

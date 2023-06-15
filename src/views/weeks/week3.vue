@@ -15,7 +15,7 @@
       <li>Randomly show balls are switched or not</li>
       <li>If the prover's answer is correct, increase the confidence, else confidence is 0%</li>
 
-      Where is wally:
+      <br>Where is wally:
       <li>Game scene build</li>
       <li>Add a transparent auto hole in the board (actually on the picture, when board enter, show it; Use sprite mask)</li>
       <li>Add three options to change the scale of the board</li>
