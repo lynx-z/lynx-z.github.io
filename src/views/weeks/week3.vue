@@ -22,6 +22,10 @@
       <li>Use the collider (Collider2D) to check if an object is inside another object</li>
       <li>When prover click show, upadte the verifier text.</li>
 
+      <br>Server Deploy
+      <li> <a href="https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#62a05565edbc2a1471677a82" target="_blank" rel="noopener">How to deploy games on Unity Play based on WebGL</a></li>
+      <li> Deploying test: <a href="https://play.unity.com/mg/other/webgl-builds-353720" target="_blank" rel="noopener">ZKP Game Server Test</a></li>
+
 
 
     </ul>
