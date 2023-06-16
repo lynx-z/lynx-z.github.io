@@ -27,7 +27,9 @@
     <!--  -->
     <br>
     <h2> Thoughts & Ideas</h2>
+    Card game
     <ul> 
+      <li> Start Screen: Discripation, Start button, Help button</li>
       
     </ul>
 

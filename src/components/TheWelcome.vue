@@ -34,6 +34,9 @@ import SupportIcon from './icons/IconSupport.vue'
 
     This project is built by
     <a href="https://unity.com/" target="_blank" rel="noopener">Unity</a>. 
+    <br>
+    Assets:
+    <br>Pixel Cards:<a href="https://unbent.itch.io/yewbi-playing-card-set-1" target="_blank" rel="noopener">https://unbent.itch.io/yewbi-playing-card-set-1</a>
 
     <br />
   </WelcomeItem>
