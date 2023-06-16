@@ -50,6 +50,12 @@ const router = createRouter({
       component: () => import('../views/weeks/week3.vue')
     },
 
+    {
+      path: '/week4',
+      name: 'week4',
+      component: () => import('../views/weeks/week4.vue')
+    },
+
 
   ]
 })
