@@ -75,20 +75,32 @@
     
     <!--  -->
     <br>
-    <h2> Where is Wally UI draft</h2>
+    <h2> Color Blind game, Where is Wally UI draft</h2>
     <br>
 
     <img :src="imageUrl" alt="Image" width="500">
 
-    <!-- <div class = "video">
+    <div class = "video">
         <video-player
-          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/245098526-5e1b84e0-03dc-4017-9167-b4e706dfb492.mp4"
+          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/246380918-c48fb89c-a28c-40c1-9c87-a05ad0d2fe82.mp4"
           :width = 500
           :muted = "true"
           :autoplay = "true"
           :loop="true"
         />
-    </div> -->
+    </div>
+
+    <br>
+    <div class = "video">
+        <video-player
+          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/246380942-68909d18-28e0-4812-95ca-44b2d1c3fab0.mp4"
+          :width = 500
+          :muted = "true"
+          :autoplay = "true"
+          :loop="true"
+        />
+    </div>
+
 
 
 
