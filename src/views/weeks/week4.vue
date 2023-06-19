@@ -9,6 +9,8 @@
     <h2> Development Records</h2>
     <br>
     <ul>
+      Card Game:
+      <li>Add table texture, button texture</li>
 
 
 
