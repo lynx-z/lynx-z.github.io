@@ -37,6 +37,8 @@ import SupportIcon from './icons/IconSupport.vue'
     <br>
     Assets:
     <br>Pixel Cards:<a href="https://unbent.itch.io/yewbi-playing-card-set-1" target="_blank" rel="noopener">https://unbent.itch.io/yewbi-playing-card-set-1</a>
+    <br>Pixel Portrait: https://loregret.itch.io/pixel-art-portrait-pack
+    <br>Pixel Button style: https://pokekas.itch.io/pixelart-buttons
 
     <br />
   </WelcomeItem>

@@ -31,7 +31,7 @@
     <h2> Thoughts & Ideas</h2>
     Card game
     <ul> 
-      <li> Start Screen: Discripation, Start button, Help button</li>
+      <li> Pixel Avader:  https://8bitpix.com/</li>
       
     </ul>
 
