@@ -10,7 +10,8 @@
     <br>
     <ul>
       Card Game:
-      <li>Add table texture, button texture</li>
+      <li>Add table texture, button texture, avader texture, dialog texture</li>
+      <li>Add highlight behind the selected card</li>
 
 
 
