@@ -12,6 +12,8 @@
       Card Game:
       <li>Add table texture, button texture, avader texture, dialog texture</li>
       <li>Add highlight behind the selected card</li>
+      <li>Rewrite Prover text</li>
+      <li>Add help screen</li>
 
 
 
