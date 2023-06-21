@@ -22,3 +22,14 @@ https://github.com/lynx-z/lynx-z.github.io/assets/85024355/c48fb89c-a28c-40c1-9c
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/246380918-c48fb89c-a28c-40c1-9c87-a05ad0d2fe82.mp4
 
+
+
+demo 0621
+
+
+https://github.com/lynx-z/lynx-z.github.io/assets/85024355/c733df44-ac80-4a3c-b8b4-256e4045fb2f
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/247510813-c733df44-ac80-4a3c-b8b4-256e4045fb2f.mp4
+
+
+
