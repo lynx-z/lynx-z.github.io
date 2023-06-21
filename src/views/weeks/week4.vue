@@ -50,7 +50,7 @@
     <h2> Game Live Demo</h2>
     <br>
 
-    <img :src="imageUrl" alt="Image" width="500">
+    <!-- <img :src="imageUrl" alt="Image" width="500"> -->
 
     <div class = "video">
         <video-player
