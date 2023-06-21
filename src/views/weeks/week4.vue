@@ -14,6 +14,7 @@
       <li>Add highlight behind the selected card</li>
       <li>Rewrite Prover text</li>
       <li>Add help screen</li>
+      <li>Redesign the game interface</li>
 
 
 
@@ -46,20 +47,20 @@
     
     <!--  -->
     <br>
-    <h2> Game UI draft</h2>
+    <h2> Game Live Demo</h2>
     <br>
-<!-- 
+
     <img :src="imageUrl" alt="Image" width="500">
 
     <div class = "video">
         <video-player
-          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/245098526-5e1b84e0-03dc-4017-9167-b4e706dfb492.mp4"
+          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/247510813-c733df44-ac80-4a3c-b8b4-256e4045fb2f.mp4"
           :width = 500
           :muted = "true"
           :autoplay = "true"
           :loop="true"
         />
-    </div> -->
+    </div>
 
     <br><br>
 
