@@ -16,6 +16,10 @@
       <li>Add help screen</li>
       <li>Redesign the game interface</li>
 
+      <br>
+      3-colorable map
+      <li>Add background texture, avader texture,</li>
+
 
 
     </ul>
@@ -26,6 +30,7 @@
     <h2> To Do </h2>
     <br>
     <ul>
+      <li> Add game over screen?</li>
 
     </ul> 
 
