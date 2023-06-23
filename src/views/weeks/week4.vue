@@ -9,6 +9,10 @@
     <h2> Development Records</h2>
     <br>
     <ul>
+      General:
+      <li>help button set Z as -1 to avoid Jittering (above the pannel)</li>
+
+      <br>
       Card Game:
       <li>Add table texture, button texture, avader texture, dialog texture</li>
       <li>Add highlight behind the selected card</li>
@@ -31,6 +35,7 @@
     <br>
     <ul>
       <li> Add game over screen?</li>
+      <li> 3-colorable map: Add alert on save map</li>
 
     </ul> 
 
