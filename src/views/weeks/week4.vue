@@ -37,6 +37,16 @@
       <li> Add game over screen?</li>
       <li> 3-colorable map: Add alert on save map</li>
 
+      <br>3-colorable map:
+      <li>Add prover can select a map, add stastisal leakage info</li>
+
+      <br>color blind map:
+      <li>Use find picture different game?</li>
+
+      <br>wally game:
+      <li>different picture</li>
+      <li>Let prover themself find the target(may be also add an auto finding)</li>
+
     </ul> 
 
 
