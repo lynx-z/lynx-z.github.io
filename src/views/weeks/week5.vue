@@ -7,7 +7,15 @@
     <!--  -->
     <br>
     <h2> Development Records</h2>
-    <br>
+  
+    <br>3 - colorable map
+    <li> Add leakage (use Square difference, check how euqal the prover select the map)</li>
+
+    <br>color blind
+    <li> Add table texture, button texture, avader texture, dialog texture。</li>
+
+
+
     <ul>
 
 
@@ -42,7 +50,7 @@
     <h2> Game UI draft</h2>
     <br>
 
-    <img :src="imageUrl" alt="Image" width="500">
+    <!-- <img :src="imageUrl" alt="Image" width="500"> -->
 
     <div class = "video">
         <video-player
