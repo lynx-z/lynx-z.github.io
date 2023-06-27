@@ -13,6 +13,10 @@
 
     <br>color blind
     <li> Add table texture, button texture, avader texture, dialog texture。</li>
+    
+    <br>Where is wally
+    <li> Add function: prover should find the puffin position first, and then save it</li>
+    <li> If the position ist incorrect, the verifier cannot find the puffin.</li>
 
 
 
