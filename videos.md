@@ -32,4 +32,13 @@ https://github.com/lynx-z/lynx-z.github.io/assets/85024355/c733df44-ac80-4a3c-b8
 https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/247510813-c733df44-ac80-4a3c-b8b4-256e4045fb2f.mp4
 
 
+demo 0703
+
+https://github.com/lynx-z/lynx-z.github.io/assets/85024355/ccfc35d3-0dff-4147-8a4a-8b42ebf0b9ed
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/250603444-ccfc35d3-0dff-4147-8a4a-8b42ebf0b9ed.mp4
+
+
+
+
 
