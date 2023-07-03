@@ -32,6 +32,7 @@
     <h2> To Do </h2>
     <br>
     <ul>
+      <li>start writing dissertation </li>
 
     </ul> 
 
@@ -51,7 +52,7 @@
     
     <!--  -->
     <br>
-    <h2> Game UI draft</h2>
+    <h2> Game </h2>
     <br>
 
     <!-- <img :src="imageUrl" alt="Image" width="500"> -->
