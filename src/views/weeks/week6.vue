@@ -1,13 +1,15 @@
 <template>
   <div >
     <br><br>
-    <h1>Week x (2023/6/5 - 2023/6/11)</h1><br>
+    <h1>Week 6 (2023/7/3 - 2023/7/9)</h1><br>
 
 
     <!--  -->
     <br>
     <h2> Development Records</h2>
     <br>
+      Dissertation draft writing
+      <li> Introduction </li>
     <ul>
 
 
@@ -42,7 +44,7 @@
     <h2> Game UI draft</h2>
     <br>
 
-    <img :src="imageUrl" alt="Image" width="500">
+    <!-- <img :src="imageUrl" alt="Image" width="500"> -->
 
     <div class = "video">
         <video-player
