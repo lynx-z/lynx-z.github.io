@@ -52,14 +52,14 @@
     
     <!--  -->
     <br>
-    <h2> Game </h2>
+    <h2> Game 2.0 </h2>
     <br>
 
     <!-- <img :src="imageUrl" alt="Image" width="500"> -->
 
     <div class = "video">
         <video-player
-          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/245098526-5e1b84e0-03dc-4017-9167-b4e706dfb492.mp4"
+          src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/250603444-ccfc35d3-0dff-4147-8a4a-8b42ebf0b9ed.mp4"
           :width = 500
           :muted = "true"
           :autoplay = "true"
