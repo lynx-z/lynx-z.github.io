@@ -9,8 +9,22 @@
     <h2> Development Records</h2>
     <br>
       Dissertation draft writing
-      <li> Introduction </li>
+
     <ul>
+      <ul> Introduction
+        <li> Project Overview  </li>
+        <li> Motivation</li>
+        <li> Document Stru</li>
+      </ul>
+
+      <ul>Background and Related Works
+        <li> Cryptography and ZKPs </li>
+        <li> ZKPs Visualisation </li>
+        <li> Cryptography Games and Education</li>
+
+      </ul>
+      <li> Background and Related Works</li>
+      <li> Project Description </li>
 
 
 
