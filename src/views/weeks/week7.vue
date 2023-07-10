@@ -1,30 +1,14 @@
 <template>
   <div >
     <br><br>
-    <h1>Week 6 (2023/7/3 - 2023/7/9)</h1><br>
+    <h1>Week 7 (2023/7/10 - 2023/7/16)</h1><br>
 
 
     <!--  -->
     <br>
     <h2> Development Records</h2>
     <br>
-      Dissertation draft writing
-
     <ul>
-      <ul> Introduction
-        <li> Project Overview  </li>
-        <li> Motivation</li>
-        <li> Document Stru</li>
-      </ul>
-
-      <ul>Background and Related Works
-        <li> Cryptography and ZKPs </li>
-        <li> ZKPs Visualisation </li>
-        <li> Cryptography Games and Education</li>
-
-      </ul>
-      <li> Background and Related Works</li>
-      <li> Project Description </li>
 
 
 
@@ -36,7 +20,6 @@
     <h2> To Do </h2>
     <br>
     <ul>
-      <li>Unit Test coding</li>
 
     </ul> 
 
@@ -59,9 +42,9 @@
     <h2> Game UI draft</h2>
     <br>
 
-    <!-- <img :src="imageUrl" alt="Image" width="500"> -->
+    <img :src="imageUrl" alt="Image" width="500">
 
-    <!-- <div class = "video">
+    <div class = "video">
         <video-player
           src="https://github-production-user-asset-6210df.s3.amazonaws.com/85024355/245098526-5e1b84e0-03dc-4017-9167-b4e706dfb492.mp4"
           :width = 500
@@ -69,7 +52,7 @@
           :autoplay = "true"
           :loop="true"
         />
-    </div> -->
+    </div>
 
     <br><br>
 
