@@ -9,6 +9,7 @@
     <h2> Development Records</h2>
     <br>
     <ul>
+      <li> Write Progress Report</li>
 
 
 
@@ -26,7 +27,7 @@
 
     <!--  -->
     <br>
-    <h2> Thoughts & Ideas</h2>
+    <!-- <h2> Thoughts & Ideas</h2> -->
     <ul> 
       
     </ul>
@@ -39,10 +40,10 @@
     
     <!--  -->
     <br>
-    <h2> Game UI draft</h2>
+    <!-- <h2> Game UI draft</h2> -->
     <br>
 
-    <img :src="imageUrl" alt="Image" width="500">
+    <!-- <img :src="imageUrl" alt="Image" width="500">
 
     <div class = "video">
         <video-player
@@ -52,7 +53,7 @@
           :autoplay = "true"
           :loop="true"
         />
-    </div>
+    </div> -->
 
     <br><br>
 
