@@ -14,7 +14,7 @@
       <ul> Introduction
         <li> Project Overview  </li>
         <li> Motivation</li>
-        <li> Document Stru</li>
+        <li> Document Structure</li>
       </ul>
 
       <ul>Background and Related Works
@@ -43,7 +43,7 @@
 
     <!--  -->
     <br>
-    <h2> Thoughts & Ideas</h2>
+    <!-- <h2> Thoughts & Ideas</h2> -->
     <ul> 
       
     </ul>
@@ -56,7 +56,7 @@
     
     <!--  -->
     <br>
-    <h2> Game UI draft</h2>
+    <!-- <h2> Game UI draft</h2> -->
     <br>
 
     <!-- <img :src="imageUrl" alt="Image" width="500"> -->
