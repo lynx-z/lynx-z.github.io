@@ -11,6 +11,13 @@
     <ul>
       <li> Write Progress Report</li>
 
+      Card game verifier part
+      <li> write script to control computer prover</li>
+      <li> computer prover will randomly show the card</li>
+      <li> player (verfier can choose trust or doubt)</li>
+
+
+
 
 
     </ul>
