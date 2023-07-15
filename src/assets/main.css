@@ -31,7 +31,8 @@ a,
     /* width: 100vw; */
     display: flex;
     place-items: center;
-    background-color: #272727;
+    /* background-color: #272727; */
+    background-color: #dc4545;
   }
 
 
