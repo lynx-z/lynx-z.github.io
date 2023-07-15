@@ -28,7 +28,14 @@
     <h2> To Do </h2>
     <br>
     <ul>
+      3-colorable map
+      <li> lets use more coarse leakage indication </li>
+      <li> maybe let user select map using algorithm rather than pointing at map. E.g. let user pick set from which map is uniformly randomly chosen.</li>
+      <li> show randomly selected map greyed out then opening two fields randomly by prover</li>
+      <li> Show zero forever if selected is 6, show low 5 times if selected is 5, then medium 5 times ...show low 4 times if selected is 4 ...</li>
 
+      <br>
+      
     </ul> 
 
 
