@@ -34,8 +34,9 @@
       <li> show randomly selected map greyed out then opening two fields randomly by prover</li>
       <li> Show zero forever if selected is 6, show low 5 times if selected is 5, then medium 5 times ...show low 4 times if selected is 4 ...</li>
 
-      <br>
-      
+      <br> color blind
+      <li> use different pictures to make more fun</li>
+
     </ul> 
 
 
