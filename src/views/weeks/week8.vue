@@ -16,7 +16,13 @@
       <li> Show zero forever if selected is 6, show low 5 times if selected is 5, then medium 5 times ...show low 4 times if selected is 4 ...</li>
 
       <br> color blind
-      <li> use different pictures to make more fun</li>
+      <li> add animation</li>
+
+      <br> Dissertation
+      <li> Split sections as 'game design & prototype' and 'game implementation'</li>
+      <li> Add 'game interface and game flow'</li>
+
+
 
 
 
