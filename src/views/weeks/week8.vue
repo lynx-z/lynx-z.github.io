@@ -18,6 +18,10 @@
       <br> color blind
       <li> add animation</li>
 
+      <br> Evaluation questionaire
+      <li> create an evaluation microsoft form</li>
+
+
       <br> Dissertation
       <li> Split sections as 'game design & prototype' and 'game implementation'</li>
       <li> Add 'game interface and game flow'</li>
