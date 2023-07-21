@@ -20,6 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/week6">Week 6</RouterLink><br>
         <RouterLink to="/week7">Week 7</RouterLink><br>
         <RouterLink to="/week8">Week 8</RouterLink><br>
+        <RouterLink to="/week8">Week 9</RouterLink><br>
 
       </nav>
     </div>
