@@ -13,6 +13,12 @@
       <br> Color blind game
       <li> use spot the difference pictures in color blind proof (Prove: I know the difference in the picture)</li>
 
+      <li>update: use three phase to refactor 3-colorable map game</li>
+
+      <br> dissertation
+      <li> Add game deployment</li>
+      <li> Add Nielsen’s 10 Usability Heuristics</li>
+
 
 
     </ul>
@@ -23,6 +29,7 @@
     <h2> To Do </h2>
     <br>
     <ul>
+      <li>Add system scale in questionaire</li>
 
     </ul> 
 
